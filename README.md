@@ -1,16 +1,26 @@
-### Hi there 👋
+My name is Kamil. I am a 22-year-old full-stack developer with experience in frontend and backend technologies.
 
-<!--
-**proxylunae/proxylunae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
 
-Here are some ideas to get you started:
+I am a recent computer science graduate with a strong foundation in frontend and backend technologies, including **JavaScript**, **HTML**, **CSS**, **React**, **Java**, and **SQL**. I am currently learning **Redux**, **Webpack**, and **TypeScript** to expand my skillset and become a full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- HTML
+- CSS
+- React
+- Java
+- SQL
+- Redux (learning)
+- Webpack (learning)
+- TypeScript (learning)
+
+## Projects
+- [To-Do List](https://github.com/proxylunae/todoList) - A simple to-do list application built with HTML, CSS, and JavaScript, using local storage to persist data. The app also allows users to export and import their to-dos as a .txt file.
+
+## Hobbies and Interests
+- Competitive programming
+- Playing musical instruments
+- Trekking
+
+I am always looking for opportunities to learn and grow as a developer. Feel free to contact me to discuss potential opportunities or just to chat about technology.
