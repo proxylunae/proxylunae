@@ -4,7 +4,7 @@ My name is Kamil. I am a 22-year-old full-stack developer with experience in fro
 
 ## Summary
 
-I am a recent computer science graduate with a strong foundation in frontend and backend technologies, including **JavaScript**, **HTML**, **CSS**, **React**, **Java**, and **SQL**. I am currently learning **Redux**, **Webpack**, and **TypeScript** to expand my skillset and become a full-stack developer.
+I am a recent computer science graduate with a strong foundation in frontend and backend technologies, including **JavaScript**, **HTML**, **CSS**, **React**, **Java**, and **SQL**. I am currently learning **Redux** and **TypeScript** to expand my skillset and become a full-stack developer.
 
 ## Skills
 - JavaScript
@@ -14,7 +14,6 @@ I am a recent computer science graduate with a strong foundation in frontend and
 - Java
 - SQL
 - Redux (learning)
-- Webpack (learning)
 - TypeScript (learning)
 
 ## Projects
