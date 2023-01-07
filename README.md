@@ -1,3 +1,5 @@
+Hi there 👋
+
 My name is Kamil. I am a 22-year-old full-stack developer with experience in frontend and backend technologies.
 
 ## Summary
